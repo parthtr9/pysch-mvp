@@ -7,6 +7,7 @@ app = FastAPI()
 
 # Configure CORS
 origins = [
+    "https://pysch-mvp.vercel.app",
     "https://parthtr9.github.io",
     "http://localhost:3000",
 ]

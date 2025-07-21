@@ -7,7 +7,7 @@ function App() {
   const [topics, setTopics] = useState([]);
 
   useEffect(() => {
-    fetch('/db.json')
+    fetch('https://pysch-mvp-gc4h.vercel.app/api/topics')
       .then(response => response.json())
       .then(data => setTopics(data.topics));
   }, []);

@@ -1,0 +1,34 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "Cognitive Dissonance",
+      "content": "Cognitive dissonance is the mental discomfort experienced by a person who holds two or more contradictory beliefs, ideas, or values, or when their beliefs are contradicted by their actions. The theory of cognitive dissonance in social psychology proposes that people have a motivational drive to reduce this discomfort by changing their attitudes, beliefs, or actions."
+    },
+    {
+      "id": 2,
+      "title": "Classical Conditioning",
+      "content": "Classical conditioning is a learning process in which a biologically potent stimulus (e.g., food) is paired with a previously neutral stimulus (e.g., a bell). It was first described by Ivan Pavlov, a Russian physiologist, in the 1890s. Pavlov's experiments with dogs showed that they could be conditioned to salivate at the sound of a bell if that sound was repeatedly presented at the same time that they were given food."
+    },
+    {
+      "id": 3,
+      "title": "Operant Conditioning",
+      "content": "Operant conditioning is a type of associative learning process through which the strength of a behavior is modified by reinforcement or punishment. It is also a procedure that is used to bring about such learning. B.F. Skinner is the psychologist most closely associated with operant conditioning. His work elaborated on Edward Thorndike's law of effect."
+    },
+    {
+      "id": 4,
+      "title": "Maslow's Hierarchy of Needs",
+      "content": "Maslow's hierarchy of needs is a theory in psychology proposed by Abraham Maslow in his 1943 paper 'A Theory of Human Motivation'. Maslow subsequently extended the idea to include his observations of humans' innate curiosity. His theory is a motivational theory in psychology comprising a five-tier model of human needs, often depicted as hierarchical levels within a pyramid."
+    },
+    {
+      "id": 5,
+      "title": "The Bystander Effect",
+      "content": "The bystander effect is a social psychological phenomenon in which individuals are less likely to offer help to a victim when there are other people present. The greater the number of bystanders, the less likely it is that any one of them will help. Several factors contribute to the bystander effect, including ambiguity, cohesiveness, and diffusion of responsibility."
+    },
+    {
+      "id": 6,
+      "title": "Stanford Prison Experiment",
+      "content": "The Stanford prison experiment was a social psychology experiment that attempted to investigate the psychological effects of perceived power, focusing on the struggle between prisoners and prison officers. It was conducted at Stanford University from August 14 to 20, 1971, by a team of researchers led by psychology professor Philip Zimbardo. The experiment is a classic study on the power of the situation to influence behavior."
+    }
+  ]
+}

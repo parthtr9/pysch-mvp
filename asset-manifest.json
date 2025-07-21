@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pysch-mvp/static/css/main.87f28032.css",
+    "main.js": "/pysch-mvp/static/js/main.1cb37526.js",
+    "static/js/453.b466217a.chunk.js": "/pysch-mvp/static/js/453.b466217a.chunk.js",
+    "index.html": "/pysch-mvp/index.html",
+    "main.87f28032.css.map": "/pysch-mvp/static/css/main.87f28032.css.map",
+    "main.1cb37526.js.map": "/pysch-mvp/static/js/main.1cb37526.js.map",
+    "453.b466217a.chunk.js.map": "/pysch-mvp/static/js/453.b466217a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87f28032.css",
+    "static/js/main.1cb37526.js"
+  ]
+}
